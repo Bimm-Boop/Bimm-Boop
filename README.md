@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me @bimssptrr_ (Insta)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to explore many things!
+- ⚡ Fun fact: I like to explore many things! (I'm also speak Japanese)
 
 <!---
 Bimm-Boop/Bimm-Boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
