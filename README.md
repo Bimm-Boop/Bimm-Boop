@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bimm-Boop
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me @bimssptrr_ (Insta)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to explore many things! (I'm also speak Japanese)
+- #👋 Hi, I’m @Bimm-Boop
+- ##👀 I’m interested in Web Development
+- ##🌱 I’m currently learning JavaScript
+- ##📫 You can reach me on [Insta](https://www.instagram.com/bimssptrr_?igsh=ZGVpaGtoMDlhMWl0)
+- ##😄 Pronouns: He/Him
+- ##⚡ Fun fact: I like to explore many things! (I'm also speak Japanese)
 
 <!---
 Bimm-Boop/Bimm-Boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
